@@ -11,33 +11,19 @@ I'm dedicated to building robust, scalable software and pipelines that deliver m
 📩 Open to collaboration opportunities — feel free to contact me at: smangaliso.oageng@gmail.com.  
 🏀 Outside of coding, I enjoy basketball, reading, and exploring new tech.
 
-## 👨‍💻 My Tech Stack
+# 👨‍💻 My Tech Stack
 
 **Languages**  
-![R](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/r.svg)  
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)  
-![Bash](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnu-bash.svg)  
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg)  
-![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg)  
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg)
+R, Python, Bash, JavaScript, HTML, CSS  
 
-**Libraries**   
-![pandas](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg)  
-![numpy](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg)  
-![matplotlib](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matplotlib.svg)  
-![seaborn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/seaborn.svg)  
-![ggplot2](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rproject.svg)  
-![pROC](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rproject.svg)  
-![data.table](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rproject.svg)
+**Frameworks & Libraries**  
+matplotlib, seaborn, ggplot2, pROC, data.table, pandas, numpy  
 
-**Bioinformatics Tools**    
-PLINK, GEMMA, PRSice-2, PRScsx, H3AGWAS pipeline
+**Bioinformatics Tools**  
+PLINK, GEMMA, PRSice-2, PRScsx, H3AGWAS pipeline  
 
 **Design & Tools**  
-![Git](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg)  
-![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)  
-![VS Code](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg)  
-![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg)  
+Git, GitHub, VS Code, Linux, HPC clusters  
 
 ---
 
