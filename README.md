@@ -15,16 +15,16 @@
 # 👨‍💻 My Tech Stack
 
 **Languages**  
-R, Python, Bash, JavaScript, HTML, CSS  
+* R, Python, Bash, JavaScript, HTML, CSS  
 
 **Frameworks & Libraries**  
-matplotlib, seaborn, ggplot2, pROC, data.table, pandas, numpy  
+* matplotlib, seaborn, ggplot2, pROC, data.table, pandas, numpy  
 
 **Bioinformatics Tools**  
-PLINK, GEMMA, PRSice-2, PRScsx, H3AGWAS pipeline  
+* PLINK, GEMMA, PRSice-2, PRScsx, H3AGWAS pipeline  
 
 **Design & Tools**  
-Git, GitHub, VS Code, Linux, HPC clusters
+* Git, GitHub, VS Code, Linux, HPC clusters
 
 ---
 
