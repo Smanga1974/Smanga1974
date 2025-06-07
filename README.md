@@ -18,7 +18,7 @@
 * R, Python, Bash, JavaScript, HTML, CSS  
 
 **Frameworks & Libraries**  
-* matplotlib, seaborn, ggplot2, pROC, data.table, pandas, numpy  
+* matplotlib, seaborn, ggplot2, pROC, data.table, pandas, numpy, qqman
 
 **Bioinformatics Tools**  
 * PLINK, GEMMA, PRSice-2, PRScsx, H3AGWAS pipeline  
