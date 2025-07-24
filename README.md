@@ -12,19 +12,22 @@
 * 📩 Open to collaboration opportunities — feel free to contact me at: smangaliso.oageng@gmail.com.  
 * 🏀 Outside of coding, I enjoy basketball, reading, and exploring new tech.
 
-# 👨‍💻 My Tech Stack
+## 👨‍💻 Tech Stack
 
 **Languages**  
-* R, Python, Bash, JavaScript, HTML, CSS, Django
+Python · R · SQL · Bash · JavaScript · HTML · CSS · Django
 
 **Frameworks & Libraries**  
-* matplotlib, seaborn, ggplot2, pROC, data.table, pandas, numpy, qqman
+scikit-learn · TensorFlow · seaborn · matplotlib · ggplot2 · pandas · numpy · plotly · statsmodels · pROC · data.table
 
 **Bioinformatics Tools**  
-* PLINK, GEMMA, PRSice-2, PRScsx, H3AGWAS pipeline  
+PLINK · GEMMA · PRSice-2 · PRScsx · H3AGWAS pipeline · bcftools · vcftools · Nextflow
 
-**Design & Tools**  
-* Git, GitHub, VS Code, Firebase, Linux, HPC clusters
+**Cloud & DevOps**  
+AWS (S3, EC2, SageMaker, Lambda) · Firebase · GitHub Actions · Docker *(basic)* · Linux/Unix · HPC · SLURM
+
+**Development & Tools**  
+Git · GitHub · VS Code · Jupyter Notebook · Google Colab · Power BI · Markdown
 
 ---
 
